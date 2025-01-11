@@ -16,16 +16,16 @@
 ## Screenshots
 
 1. **Admin Page**:
-   <img src="src/assets/app-photos/admin-page.png" width="200" />
+   <img src="src/assets/app-photos/admin-page.png" width="500" />
 
 2. **Home Page**:
-   <img src="src/assets/app-photos/home-page.png" width="200" />
+   <img src="src/assets/app-photos/home-page.png" width="500" />
 
 3. **Order Page**:
-   <img src="src/assets/app-photos/order-page.png" width="200" />
+   <img src="src/assets/app-photos/order-page.png" width="500" />
 
 4. **Storage Service Page**:
-   <img src="src/assets/app-photos/storage-service-page.png" width="200" />
+   <img src="src/assets/app-photos/storage-service-page.png" width="500" />
 
 ---
 
